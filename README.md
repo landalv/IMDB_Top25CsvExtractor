@@ -17,7 +17,7 @@ este proyecto se encuentra alojado en [github](https://github.com/landalv/IMDB_T
 El archivo JSON de salida contiene una lista de objetos, cada uno representando una película del top 25 con el siguiente formato:
 
 ```json
-"{
+{
     "peliculas":[
         {
             "pelicula": "Nombre de la película",

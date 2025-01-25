@@ -1,3 +1,6 @@
+# ⛔️ DEPRECATED #
+
+
 # IMDB Top 25 Extractor
 
 Este proyecto es un script de Python que toma como entrada un archivo CSV con el top 50 de películas (por defecto `IMDB_Top50.csv`) y produce un archivo de salida en formato JSON con el top 25 de las películas. El JSON resultante contiene el nombre de la película, su duración en minutos y su posición en la lista.
